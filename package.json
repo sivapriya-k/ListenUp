@@ -1,0 +1,19 @@
+{
+  "name": "listenup",
+  "version": "1.0.0",
+  "description": "Listen up take home project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sivapriya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "supertest": "^3.3.0"
+  }
+}
